@@ -1,0 +1,98 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Antonio",
+      "surnames": "Cabezuelo Vivo",
+      "title": "Pasionate mobile software engeneer",
+      "description": "I'm a software engineer currently helping companies to convert their ideas into iOS apps.\n\nMy goal is to create useful software by making simplicity and quality my top priorities.",
+      "avatar": {
+        "alt": "ACV_animoji_2.png",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/29/668505d4-3eff-491c-a352-9a8f754be617_acv_animoji_2.png"
+      },
+      "location": {
+        "notes": "Velilla de San Antonio - Madrid"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "http://www.linkedin.com/in/acvivo"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/tapsandswipes"
+      },
+      {
+        "type": "other",
+        "URL": "https://tapsandswipes.com"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/acvivo"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Music lover",
+        "fact": "I like and listen to all kind of music styles. Yes, that style too."
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Objective-C",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Swift",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "http://www.linkedin.com/in/acvivo"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Kotlin",
+          "type": "technology"
+        },
+        {
+          "name": "swiftUI",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
