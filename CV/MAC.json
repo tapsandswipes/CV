@@ -8,8 +8,12 @@
     "profile": {
       "name": "Antonio",
       "surnames": "Cabezuelo Vivo",
-      "title": "Pasionate mobile software engeneer",
+      "title": "Passionate mobile software engineer and music lover",
       "description": "I'm a software engineer currently helping companies to convert their ideas into iOS apps.\n\nMy goal is to create useful software by making simplicity and quality my top priorities.",
+      "avatar": {
+        "alt": "ACV_animoji_2.png",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/29/7ce28010-fe75-400e-a796-f4e12aa34dd5_acv_animoji_2.png"
+      },
       "location": {
         "notes": "Velilla de San Antonio - Madrid"
       }
