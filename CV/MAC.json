@@ -328,6 +328,19 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Bachelor Degree in Computer Engineering",
+        "startDate": "1989-09-01",
+        "finishDate": "1996-06-01",
+        "institution": {
+          "name": "Facultad de Informática de la Universidad Politécnica de Madrid",
+          "URL": "http://fi.upm.es"
+        }
+      }
     ]
   },
   "careerPreferences": {
