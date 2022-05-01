@@ -43,6 +43,37 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Miller Freeman"
+        },
+        "roles": [
+          {
+            "name": "Intern",
+            "startDate": "1995-11-01",
+            "finishDate": "1996-02-01",
+            "challenges": [
+              {
+                "description": "Help CTO with their current system developed in COBOL"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Cobol",
+                "type": "technology"
+              },
+              {
+                "name": "Unix",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
