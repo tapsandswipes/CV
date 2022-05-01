@@ -47,6 +47,37 @@
     "jobs": [
       {
         "organization": {
+          "name": "Algoritmos Procesos y Diseños S.A."
+        },
+        "roles": [
+          {
+            "name": "Junior Developer",
+            "startDate": "1996-02-01",
+            "finishDate": "1999-03-01",
+            "challenges": [
+              {
+                "description": "I made some pugs for SDStudio MAX. I also made software using Microsoft Foundation Classes (MFC) and made an e-commerce site for Patronato Provincial of Soria using IBM WebSphere Commerce platform. "
+              }
+            ],
+            "competences": [
+              {
+                "name": "3D Studio Max",
+                "type": "technology"
+              },
+              {
+                "name": "C++",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Miller Freeman"
         },
         "roles": [
