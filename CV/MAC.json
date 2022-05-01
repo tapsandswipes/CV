@@ -47,6 +47,29 @@
     "jobs": [
       {
         "organization": {
+          "name": "Telefónica S.A."
+        },
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2000-07-01",
+            "finishDate": "2000-12-01",
+            "challenges": [
+              {
+                "description": "JAVA applets"
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Fujitsu"
         },
         "roles": [
