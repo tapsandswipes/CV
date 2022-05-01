@@ -47,6 +47,37 @@
     "jobs": [
       {
         "organization": {
+          "name": "France Telecom España S.L."
+        },
+        "roles": [
+          {
+            "name": "Frontend developer",
+            "startDate": "2004-09-01",
+            "finishDate": "2008-07-01",
+            "challenges": [
+              {
+                "description": "We developed a content management system fully programmed in JavaScript both the fronted and the backend"
+              }
+            ],
+            "competences": [
+              {
+                "name": "CMS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Wanadoo España S.L."
         },
         "roles": [
