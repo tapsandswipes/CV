@@ -47,6 +47,37 @@
     "jobs": [
       {
         "organization": {
+          "name": "EresMas Interactiva S.A."
+        },
+        "roles": [
+          {
+            "name": "Backend developer",
+            "startDate": "2000-12-01",
+            "finishDate": "2003-03-01",
+            "challenges": [
+              {
+                "description": "Web site generator using XML, XSL and XSLT."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "XML",
+                "type": "technology"
+              },
+              {
+                "name": "XSL",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Telefónica S.A."
         },
         "roles": [
