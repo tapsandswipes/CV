@@ -47,6 +47,33 @@
     "jobs": [
       {
         "organization": {
+          "name": "Wanadoo España S.L."
+        },
+        "roles": [
+          {
+            "name": "Frontend developer",
+            "startDate": "2003-06-01",
+            "finishDate": "2004-09-01",
+            "challenges": [
+              {
+                "description": "I made the first on-site webmail client"
+              }
+            ],
+            "competences": [
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "EresMas Interactiva S.A."
         },
         "roles": [
