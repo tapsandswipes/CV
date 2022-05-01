@@ -47,6 +47,29 @@
     "jobs": [
       {
         "organization": {
+          "name": "Fujitsu"
+        },
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2000-05-01",
+            "finishDate": "2000-07-01",
+            "challenges": [
+              {
+                "description": "Java applets and tools to support other company departments"
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "SEINTO"
         },
         "roles": [
