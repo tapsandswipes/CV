@@ -47,6 +47,33 @@
     "jobs": [
       {
         "organization": {
+          "name": "SEINTO"
+        },
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "1999-04-01",
+            "finishDate": "2000-05-01",
+            "challenges": [
+              {
+                "description": "Worked on several e-commerce projects using DB2 and also we developed some JAVA Applets"
+              }
+            ],
+            "competences": [
+              {
+                "name": "DB2",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Algoritmos Procesos y Diseños S.A."
         },
         "roles": [
