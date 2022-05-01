@@ -47,6 +47,45 @@
     "jobs": [
       {
         "organization": {
+          "name": "Freelance",
+          "URL": "https://tapsandswipes.com"
+        },
+        "roles": [
+          {
+            "name": "Freelance iOS developer",
+            "startDate": "2010-08-01",
+            "challenges": [
+              {
+                "description": "Since 2010 I work helping companies to convert their ideas into iOS apps."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Core Data",
+                "type": "technology"
+              },
+              {
+                "name": "Objective-C",
+                "type": "technology"
+              },
+              {
+                "name": "Swift",
+                "type": "technology"
+              },
+              {
+                "name": "iOS",
+                "type": "technology"
+              },
+              {
+                "name": "swiftUI",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "France Telecom España S.L."
         },
         "roles": [
