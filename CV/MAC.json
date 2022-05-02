@@ -61,7 +61,19 @@
             ],
             "competences": [
               {
+                "name": "C",
+                "type": "technology"
+              },
+              {
                 "name": "Core Data",
+                "type": "technology"
+              },
+              {
+                "name": "Fastlane",
+                "type": "technology"
+              },
+              {
+                "name": "Firebase",
                 "type": "technology"
               },
               {
