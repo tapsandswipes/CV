@@ -15,7 +15,9 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/29/7ce28010-fe75-400e-a796-f4e12aa34dd5_acv_animoji_2.png"
       },
       "location": {
-        "notes": "Velilla de San Antonio - Madrid"
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Velilla de San Antonio"
       }
     },
     "relevantLinks": [
@@ -61,6 +63,10 @@
             ],
             "competences": [
               {
+                "name": "Apple iOS",
+                "type": "technology"
+              },
+              {
                 "name": "C",
                 "type": "technology"
               },
@@ -85,11 +91,7 @@
                 "type": "technology"
               },
               {
-                "name": "iOS",
-                "type": "technology"
-              },
-              {
-                "name": "swiftUI",
+                "name": "SwiftUI",
                 "type": "technology"
               }
             ]
@@ -330,13 +332,13 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Objective-C",
+          "name": "Swift",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Swift",
+          "name": "Objective-C",
           "type": "technology"
         }
       }
@@ -371,7 +373,7 @@
           "type": "technology"
         },
         {
-          "name": "swiftUI",
+          "name": "SwiftUI",
           "type": "technology"
         }
       ],
