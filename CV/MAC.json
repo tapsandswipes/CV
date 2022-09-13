@@ -322,6 +322,30 @@
     "projects": [
       {
         "details": {
+          "name": "FutureResult",
+          "description": "A tiny library with a very simple implementation of Futures",
+          "URL": "https://github.com/tapsandswipes/FutureResult"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-04-01",
+            "competences": [
+              {
+                "name": "Apple iOS",
+                "type": "technology"
+              },
+              {
+                "name": "Swift",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "AugmentedButton",
           "description": "UIButton subclass with augmented functionality",
           "URL": "https://github.com/tapsandswipes/AugmentedButton"
