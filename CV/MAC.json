@@ -318,6 +318,36 @@
           }
         ]
       }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Inter-App Communication",
+          "description": "A framework that allows your iOS app to communicate, very easily, with other iOS apps installed in the device that supports the x-callback-url protocol. With IAC you can also add an x-callback-url API to your app in a very easy and intuitive way.",
+          "URL": "https://github.com/tapsandswipes/InterAppCommunication"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2013-02-01",
+            "competences": [
+              {
+                "name": "Apple iOS",
+                "type": "technology"
+              },
+              {
+                "name": "Objective-C",
+                "type": "technology"
+              },
+              {
+                "name": "Swift",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
