@@ -346,6 +346,30 @@
       },
       {
         "details": {
+          "name": "StorablePropertyWrapper",
+          "description": "A swift property wrapper for type safe storing objects in Key-Value stores. Perfecctly tailored for UserDefaults and usable for SwiftUI bindings",
+          "URL": "https://github.com/tapsandswipes/StorablePropertyWrapper"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2020-04-01",
+            "competences": [
+              {
+                "name": "Apple iOS",
+                "type": "technology"
+              },
+              {
+                "name": "Swift",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "AugmentedButton",
           "description": "UIButton subclass with augmented functionality",
           "URL": "https://github.com/tapsandswipes/AugmentedButton"
