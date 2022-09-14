@@ -423,6 +423,30 @@
             ]
           }
         ]
+      },
+      {
+        "details": {
+          "name": "iTile",
+          "description": "Mi first iOS app. Simple image tiling game."
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2009-11-01",
+            "finishDate": "2011-01-01",
+            "competences": [
+              {
+                "name": "Apple iOS",
+                "type": "technology"
+              },
+              {
+                "name": "Objective-C",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
