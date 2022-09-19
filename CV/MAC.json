@@ -663,6 +663,34 @@
       },
       {
         "details": {
+          "name": "LearningTracks iPad app",
+          "description": "A very easy to use app that will help you in the process of learning and practicing vocal and instrumental pieces.",
+          "URL": "https://apps.apple.com/app/id817332570",
+          "image": {
+            "alt": "learningtracks.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/19/6a4eacd2-a575-432e-b773-9d571103b17c_learningtracks.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2014-04-01",
+            "competences": [
+              {
+                "name": "Apple iOS",
+                "type": "technology"
+              },
+              {
+                "name": "Swift",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Inter-App Communication",
           "description": "A framework that allows your iOS app to communicate, very easily, with other iOS apps installed in the device that supports the x-callback-url protocol. With IAC you can also add an x-callback-url API to your app in a very easy and intuitive way.",
           "URL": "https://github.com/tapsandswipes/InterAppCommunication",
