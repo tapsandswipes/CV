@@ -448,6 +448,34 @@
           }
         ]
       }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "My first iOS app is available in the App Store",
+          "description": "The first iOS app I developed is approved for the App Store. It was a pet project I made just for fun and to learn how to publish apps.",
+          "URL": "https://tapsandswipes.com/apps/itile/",
+          "image": {
+            "alt": "itile.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/19/96e6d3c7-689f-41b3-97e6-c5c801213973_itile.png"
+          }
+        },
+        "type": "launch",
+        "publishingDate": "2008-11-01",
+        "relatedCompetences": [
+          {
+            "name": "Apple iOS",
+            "type": "technology"
+          },
+          {
+            "name": "Objective-C",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          "Personal projects"
+        ]
+      }
     ]
   },
   "knowledge": {
