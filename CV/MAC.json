@@ -348,7 +348,11 @@
         "details": {
           "name": "StorablePropertyWrapper",
           "description": "A swift property wrapper for type safe storing objects in Key-Value stores. Perfecctly tailored for UserDefaults and usable for SwiftUI bindings",
-          "URL": "https://github.com/tapsandswipes/StorablePropertyWrapper"
+          "URL": "https://github.com/tapsandswipes/StorablePropertyWrapper",
+          "image": {
+            "alt": "kisspng-open-source-software-computer-icons-source-code-in-half-life-5ad28e772b0b26.6593406715237484711763.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/19/8404720a-7b76-4e9f-aa29-ebb188197c4b_kisspng-open-source-.png"
+          }
         },
         "type": "openSource",
         "roles": [
