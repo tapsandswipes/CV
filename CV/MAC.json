@@ -520,6 +520,31 @@
           }
         ]
       }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Kiosko.net iOS app",
+          "description": "I launched the iOS app for the site kiosko.net with my college and partner Hector at KTS S.C.",
+          "URL": "https://apps.apple.com/app/id875275263",
+          "image": {
+            "alt": "kiosko.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/19/e6433720-fa24-482e-b722-82cfa4fa5b4b_kiosko.png"
+          }
+        },
+        "type": "launch",
+        "publishingDate": "2010-03-01",
+        "relatedCompetences": [
+          {
+            "name": "Apple iOS",
+            "type": "technology"
+          },
+          {
+            "name": "Objective-C",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
