@@ -442,6 +442,34 @@
       },
       {
         "details": {
+          "name": "FunBox",
+          "description": "A box full of funny sounds",
+          "URL": "http://itunes.apple.com/app/id368043740?mt=8",
+          "image": {
+            "alt": "funbox.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/19/a3da7a5f-86ab-4ed5-8494-03b402bd59da_funbox.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2010-04-01",
+            "competences": [
+              {
+                "name": "Apple iOS",
+                "type": "technology"
+              },
+              {
+                "name": "Objective-C",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "iTile",
           "description": "Mi first iOS app. Simple image tiling game.",
           "URL": "https://tapsandswipes.com/apps/itile/",
