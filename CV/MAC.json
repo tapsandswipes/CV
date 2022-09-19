@@ -136,6 +136,34 @@
       },
       {
         "organization": {
+          "name": "IronHack",
+          "URL": "https://www.ironhack.com/en?nis=8"
+        },
+        "roles": [
+          {
+            "name": "iOS teacher",
+            "startDate": "2014-03-01",
+            "finishDate": "2014-04-01",
+            "challenges": [
+              {
+                "description": "I participated as a swift teacher in the 2014 iOS development bootcamp."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Apple iOS",
+                "type": "technology"
+              },
+              {
+                "name": "Swift",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Unobrain",
           "URL": "https://www.unobrain.com"
         },
