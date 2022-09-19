@@ -100,6 +100,37 @@
       },
       {
         "organization": {
+          "name": "Tecnología Información y Finanzas S.A.",
+          "image": {
+            "alt": "sueldos.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/19/851df5ff-da3b-4d6e-9563-036bc04fad12_sueldos.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "iOS freelance contract",
+            "startDate": "2010-05-01",
+            "finishDate": "2010-07-01",
+            "challenges": [
+              {
+                "description": "Made an iOS app to calculate salaries."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Apple iOS",
+                "type": "technology"
+              },
+              {
+                "name": "Objective-C",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "KTS S.C."
         },
         "roles": [
