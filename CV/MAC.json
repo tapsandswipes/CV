@@ -100,6 +100,34 @@
       },
       {
         "organization": {
+          "name": "Unobrain",
+          "URL": "https://www.unobrain.com"
+        },
+        "roles": [
+          {
+            "name": "iOS freelance contract",
+            "startDate": "2013-09-01",
+            "finishDate": "2014-08-01",
+            "challenges": [
+              {
+                "description": "Made an iOS app that integrates JavaScripts games with the device hardware.\n- **Unobrain**: The iPhone app for [Unobrain](https://www.unobrain.com/) to train your brain"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Apple iOS",
+                "type": "technology"
+              },
+              {
+                "name": "Objective-C",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "ADNStream S.L.",
           "URL": "http://www.adnstream.com"
         },
