@@ -807,12 +807,12 @@
       },
       {
         "details": {
-          "name": "iTile",
+          "name": "iTile iPhone app",
           "description": "Mi first iOS app. Simple image tiling game.",
           "URL": "https://tapsandswipes.com/apps/itile/",
           "image": {
-            "alt": "itile.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/19/1f47474e-1801-4b63-b54b-f98ff145d0d0_itile.png"
+            "alt": "quetarifa.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/19/176d33aa-786e-47ca-852d-15f2322e9af8_quetarifa.png"
           }
         },
         "type": "sideProject",
