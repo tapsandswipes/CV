@@ -603,6 +603,34 @@
       },
       {
         "details": {
+          "name": "ScratchQuartets iPhone app",
+          "description": "Organize scratch quartets competition with this simple tool.",
+          "URL": "https://apps.apple.com/app/id1514952296",
+          "image": {
+            "alt": "icon_60pt3x.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/19/c13e9eb2-89b6-4788-85c5-75fa3a19e78e_icon_60pt3x.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2020-05-01",
+            "competences": [
+              {
+                "name": "Apple iOS",
+                "type": "technology"
+              },
+              {
+                "name": "Swift",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "StorablePropertyWrapper",
           "description": "A swift property wrapper for type safe storing objects in Key-Value stores. Perfecctly tailored for UserDefaults and usable for SwiftUI bindings",
           "URL": "https://github.com/tapsandswipes/StorablePropertyWrapper",
