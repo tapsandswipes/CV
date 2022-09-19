@@ -575,6 +575,34 @@
     "projects": [
       {
         "details": {
+          "name": "¿Qué tarifa? iOS app",
+          "description": "See what type of electricity rate is applied at the current time in Spain.\n",
+          "URL": "https://apps.apple.com/app/id1581316333",
+          "image": {
+            "alt": "quetarifa.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/19/e1581d78-a47e-44cc-997b-5ea04c576cb0_quetarifa.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-09-01",
+            "competences": [
+              {
+                "name": "Apple iOS",
+                "type": "technology"
+              },
+              {
+                "name": "Swift",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "FutureResult",
           "description": "A tiny library with a very simple implementation of Futures",
           "URL": "https://github.com/tapsandswipes/FutureResult",
