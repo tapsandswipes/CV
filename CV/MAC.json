@@ -40,6 +40,10 @@
     ],
     "interestingFacts": [
       {
+        "topic": "I love cinema",
+        "fact": "Especially sci-fi movies: StarWars saga, Alien saga, and many more.\nForrest Gump is my favorite movie."
+      },
+      {
         "topic": "I love music",
         "fact": "I like and listen to all kind of music styles. Yes, that style too."
       }
