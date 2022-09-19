@@ -104,6 +104,38 @@
       },
       {
         "organization": {
+          "name": "LinkedTeams S.L.",
+          "URL": "https://www.arivanza.com"
+        },
+        "roles": [
+          {
+            "name": "iOS freelance contract",
+            "startDate": "2014-04-01",
+            "finishDate": "2014-12-01",
+            "challenges": [
+              {
+                "description": "Made the iOS app for Arivanza, a mobile first learning platform."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Apple iOS",
+                "type": "technology"
+              },
+              {
+                "name": "Objective-C",
+                "type": "technology"
+              },
+              {
+                "name": "Swift",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Unobrain",
           "URL": "https://www.unobrain.com"
         },
