@@ -100,6 +100,29 @@
       },
       {
         "organization": {
+          "name": "KTS S.C."
+        },
+        "roles": [
+          {
+            "name": "Founder at KTS S.C.",
+            "startDate": "2010-01-01",
+            "finishDate": "2020-01-01",
+            "challenges": [
+              {
+                "description": "Founder and iOS developer at KTS S.C."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Apple iOS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "France Telecom España S.L."
         },
         "roles": [
