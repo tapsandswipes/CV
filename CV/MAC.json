@@ -188,6 +188,34 @@
       },
       {
         "organization": {
+          "name": "Coowry Ltd.",
+          "URL": "https://www.coowry.com"
+        },
+        "roles": [
+          {
+            "name": "iOS freelance contract",
+            "startDate": "2014-03-01",
+            "finishDate": "2018-10-01",
+            "challenges": [
+              {
+                "description": "I made the iOS app for a startup in the micro-payments business. "
+              }
+            ],
+            "competences": [
+              {
+                "name": "Apple iOS",
+                "type": "technology"
+              },
+              {
+                "name": "Swift",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Unobrain",
           "URL": "https://www.unobrain.com"
         },
