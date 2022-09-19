@@ -779,12 +779,12 @@
       },
       {
         "details": {
-          "name": "FunBox",
+          "name": "FunBox iOS app",
           "description": "A box full of funny sounds",
           "URL": "http://itunes.apple.com/app/id368043740?mt=8",
           "image": {
-            "alt": "funbox.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/19/03b40989-5974-4cd5-98ae-84099cd63ef5_funbox.png"
+            "alt": "quetarifa.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/19/53caa12b-d13e-4c4b-aa71-ad081b2dc2a2_quetarifa.png"
           }
         },
         "type": "sideProject",
