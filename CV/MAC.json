@@ -882,6 +882,12 @@
           "name": "Objective-C",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "Apple iOS",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
