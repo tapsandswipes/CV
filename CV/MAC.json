@@ -384,6 +384,38 @@
       },
       {
         "organization": {
+          "name": "Sistemas de Identificación Giro S.C.",
+          "URL": "https://www.technicalrp.es/categoria/giroz-crono/"
+        },
+        "roles": [
+          {
+            "name": "Founder and developer",
+            "startDate": "2004-01-01",
+            "finishDate": "2009-12-01",
+            "challenges": [
+              {
+                "description": " We created GiroZ, a hardware and software bundle used to detect radio controlled cars during races to manage lap counts and standings."
+              }
+            ],
+            "competences": [
+              {
+                "name": "C",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "RFID",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Wanadoo España S.L."
         },
         "roles": [
@@ -929,6 +961,9 @@
           "name": "JAVA",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Mobile Developer"
       ]
     }
   }
