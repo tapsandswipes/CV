@@ -908,12 +908,6 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Objective-C",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "UIKit",
           "type": "technology"
         }
@@ -926,13 +920,13 @@
       },
       {
         "skill": {
-          "name": "MVVM",
+          "name": "Objective-C",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "SwiftUI",
+          "name": "MVVM",
           "type": "technology"
         }
       }
