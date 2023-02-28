@@ -9,7 +9,7 @@
       "name": "Antonio",
       "surnames": "Cabezuelo Vivo",
       "title": "Passionate mobile software engineer and music lover",
-      "description": "I'm a software engineer currently helping companies to convert their ideas into iOS apps.\n\nMy goal is to create useful software by making simplicity and quality my top priorities.",
+      "description": "",
       "avatar": {
         "alt": "acv.png",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/19/d05c88de-e8d5-4378-b8e0-306ee5bdcccf_acv.png"
@@ -417,7 +417,8 @@
       },
       {
         "organization": {
-          "name": "Wanadoo España S.L."
+          "name": "Wanadoo España S.L.",
+          "URL": ""
         },
         "roles": [
           {
@@ -548,7 +549,8 @@
       },
       {
         "organization": {
-          "name": "Algoritmos Procesos y Diseños S.A."
+          "name": "Algoritmos Procesos y Diseños S.A.",
+          "URL": ""
         },
         "roles": [
           {
@@ -579,7 +581,8 @@
       },
       {
         "organization": {
-          "name": "Miller Freeman"
+          "name": "Miller Freeman",
+          "URL": ""
         },
         "roles": [
           {
@@ -890,6 +893,9 @@
             "name": "Objective-C",
             "type": "technology"
           }
+        ],
+        "tags": [
+          ""
         ]
       }
     ]
@@ -940,6 +946,7 @@
         "finishDate": "1996-06-01",
         "institution": {
           "name": "Facultad de Informática de la Universidad Politécnica de Madrid",
+          "description": "",
           "URL": "http://fi.upm.es"
         }
       }
