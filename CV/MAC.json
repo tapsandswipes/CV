@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -11,34 +11,16 @@
       "title": "Passionate mobile software engineer and music lover",
       "description": "I'm a software engineer currently helping companies to convert their ideas into iOS apps.\nI started with the first iOS SDK back in 2008 and since them I contributed to many projects.",
       "avatar": {
-        "alt": "acv.png",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/19/d05c88de-e8d5-4378-b8e0-306ee5bdcccf_acv.png"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/13/c3a22209-617e-4998-b0ab-295e024894c9_img_4339.jpg",
+        "alt": "IMG_4339.jpg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJOeGID245Qg0RcN2Nponf_TM)",
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Velilla de San Antonio",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Velilla de San Antonio"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "linkedin",
-        "URL": "http://www.linkedin.com/in/acvivo"
-      },
-      {
-        "type": "github",
-        "URL": "https://github.com/tapsandswipes"
-      },
-      {
-        "type": "other",
-        "URL": "https://tapsandswipes.com"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/acvivo"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "I love cinema",
@@ -48,92 +30,16 @@
         "topic": "I love music",
         "fact": "I like and listen to all kind of music styles. Yes, that style too."
       }
+    ],
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://tapsandswipes.com"
+      }
     ]
   },
   "experience": {
     "jobs": [
-      {
-        "organization": {
-          "name": "Freelance",
-          "URL": "https://tapsandswipes.com"
-        },
-        "roles": [
-          {
-            "name": "iOS developer",
-            "startDate": "2010-08-01",
-            "challenges": [
-              {
-                "description": "Since 2010 I work helping companies to convert their ideas into iOS apps."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Apple iOS",
-                "type": "technology"
-              },
-              {
-                "name": "C",
-                "type": "technology"
-              },
-              {
-                "name": "Core Data",
-                "type": "technology"
-              },
-              {
-                "name": "Fastlane",
-                "type": "technology"
-              },
-              {
-                "name": "Firebase",
-                "type": "technology"
-              },
-              {
-                "name": "Objective-C",
-                "type": "technology"
-              },
-              {
-                "name": "Swift",
-                "type": "technology"
-              },
-              {
-                "name": "SwiftUI",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "LateNiteSoft S.L.",
-          "URL": "https://www.latenitesoft.com"
-        },
-        "roles": [
-          {
-            "name": "iOS freelance contract",
-            "startDate": "2010-08-01",
-            "challenges": [
-              {
-                "description": "Colaborate in the creation of several iOS apps:\n- **Camera+ for iPad**: I made the port of the iPhone app to the iPad.\n- **Camera+**: I'm responsible for the UI of the whole app.\n- **Macro**: Macro photography iPhone app.\n- **C+ Studio**: Photo editor for MacOS. Implemented in Mac Catalyst.\n- **REC**: Video recording app for iPhone."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Apple iOS",
-                "type": "technology"
-              },
-              {
-                "name": "Objective-C",
-                "type": "technology"
-              },
-              {
-                "name": "Swift",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
       {
         "organization": {
           "name": "Ironhack",
@@ -192,17 +98,17 @@
       },
       {
         "organization": {
-          "name": "Ironhack",
-          "URL": "https://www.ironhack.com/en?nis=8"
+          "name": "Coowry Ltd.",
+          "URL": "https://www.coowry.com"
         },
         "roles": [
           {
-            "name": "iOS teacher",
+            "name": "iOS freelance contract",
             "startDate": "2014-03-01",
-            "finishDate": "2014-04-01",
+            "finishDate": "2018-10-01",
             "challenges": [
               {
-                "description": "I participated as a swift teacher in the 2014 iOS development bootcamp."
+                "description": "I made the iOS app for a startup in the micro-payments business. "
               }
             ],
             "competences": [
@@ -220,17 +126,17 @@
       },
       {
         "organization": {
-          "name": "Coowry Ltd.",
-          "URL": "https://www.coowry.com"
+          "name": "Ironhack",
+          "URL": "https://www.ironhack.com/en?nis=8"
         },
         "roles": [
           {
-            "name": "iOS freelance contract",
+            "name": "iOS teacher",
             "startDate": "2014-03-01",
-            "finishDate": "2018-10-01",
+            "finishDate": "2014-04-01",
             "challenges": [
               {
-                "description": "I made the iOS app for a startup in the micro-payments business. "
+                "description": "I participated as a swift teacher in the 2014 iOS development bootcamp."
               }
             ],
             "competences": [
@@ -296,6 +202,88 @@
               },
               {
                 "name": "Objective-C",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "LateNiteSoft S.L.",
+          "URL": "https://www.latenitesoft.com"
+        },
+        "roles": [
+          {
+            "name": "iOS freelance contract",
+            "startDate": "2010-08-01",
+            "challenges": [
+              {
+                "description": "Colaborate in the creation of several iOS apps:\n- **Camera+ for iPad**: I made the port of the iPhone app to the iPad.\n- **Camera+**: I'm responsible for the UI of the whole app.\n- **Macro**: Macro photography iPhone app.\n- **C+ Studio**: Photo editor for MacOS. Implemented in Mac Catalyst.\n- **REC**: Video recording app for iPhone."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Apple iOS",
+                "type": "technology"
+              },
+              {
+                "name": "Objective-C",
+                "type": "technology"
+              },
+              {
+                "name": "Swift",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Freelance",
+          "URL": "https://tapsandswipes.com"
+        },
+        "roles": [
+          {
+            "name": "iOS developer",
+            "startDate": "2010-08-01",
+            "challenges": [
+              {
+                "description": "Since 2010 I work helping companies to convert their ideas into iOS apps."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Apple iOS",
+                "type": "technology"
+              },
+              {
+                "name": "C",
+                "type": "technology"
+              },
+              {
+                "name": "Core Data",
+                "type": "technology"
+              },
+              {
+                "name": "Fastlane",
+                "type": "technology"
+              },
+              {
+                "name": "Google Firebase",
+                "type": "technology"
+              },
+              {
+                "name": "Objective-C",
+                "type": "technology"
+              },
+              {
+                "name": "Swift",
+                "type": "technology"
+              },
+              {
+                "name": "SwiftUI",
                 "type": "technology"
               }
             ]
@@ -417,8 +405,7 @@
       },
       {
         "organization": {
-          "name": "Wanadoo España S.L.",
-          "URL": ""
+          "name": "Wanadoo España S.L."
         },
         "roles": [
           {
@@ -549,8 +536,7 @@
       },
       {
         "organization": {
-          "name": "Algoritmos Procesos y Diseños S.A.",
-          "URL": ""
+          "name": "Algoritmos Procesos y Diseños S.A."
         },
         "roles": [
           {
@@ -564,7 +550,7 @@
             ],
             "competences": [
               {
-                "name": "3D Studio Max",
+                "name": "Autodesk 3D Studio Max",
                 "type": "technology"
               },
               {
@@ -581,8 +567,7 @@
       },
       {
         "organization": {
-          "name": "Miller Freeman",
-          "URL": ""
+          "name": "Miller Freeman"
         },
         "roles": [
           {
@@ -611,40 +596,12 @@
     "projects": [
       {
         "details": {
-          "name": "¿Qué tarifa? iOS app",
-          "description": "See what type of electricity rate is applied at the current time in Spain.\n",
-          "URL": "https://apps.apple.com/app/id1581316333",
-          "image": {
-            "alt": "quetarifa.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/19/e1581d78-a47e-44cc-997b-5ea04c576cb0_quetarifa.png"
-          }
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2021-09-01",
-            "competences": [
-              {
-                "name": "Apple iOS",
-                "type": "technology"
-              },
-              {
-                "name": "Swift",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "FutureResult",
           "description": "A tiny library with a very simple implementation of Futures",
           "URL": "https://github.com/tapsandswipes/FutureResult",
           "image": {
-            "alt": "open-source-software.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/19/d94c41db-89e2-4650-8e86-0320aee39306_open-source-software.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/19/d94c41db-89e2-4650-8e86-0320aee39306_open-source-software.png",
+            "alt": "open-source-software.png"
           }
         },
         "type": "openSource",
@@ -667,40 +624,12 @@
       },
       {
         "details": {
-          "name": "ScratchQuartets iPhone app",
-          "description": "Organize scratch quartets competition with this simple tool.",
-          "URL": "https://apps.apple.com/app/id1514952296",
-          "image": {
-            "alt": "icon_60pt3x.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/19/c13e9eb2-89b6-4788-85c5-75fa3a19e78e_icon_60pt3x.png"
-          }
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2020-05-01",
-            "competences": [
-              {
-                "name": "Apple iOS",
-                "type": "technology"
-              },
-              {
-                "name": "Swift",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "StorablePropertyWrapper",
           "description": "A swift property wrapper for type safe storing objects in Key-Value stores. Perfecctly tailored for UserDefaults and usable for SwiftUI bindings",
           "URL": "https://github.com/tapsandswipes/StorablePropertyWrapper",
           "image": {
-            "alt": "open-source-software.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/19/e0556075-bafc-489d-8229-de86c4dde216_open-source-software.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/19/e0556075-bafc-489d-8229-de86c4dde216_open-source-software.png",
+            "alt": "open-source-software.png"
           }
         },
         "type": "openSource",
@@ -727,8 +656,8 @@
           "description": "UIButton subclass with augmented functionality",
           "URL": "https://github.com/tapsandswipes/AugmentedButton",
           "image": {
-            "alt": "open-source-software.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/19/27fa08c8-96e1-484a-be00-e7e214c6f473_open-source-software.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/19/27fa08c8-96e1-484a-be00-e7e214c6f473_open-source-software.png",
+            "alt": "open-source-software.png"
           }
         },
         "type": "openSource",
@@ -755,12 +684,68 @@
       },
       {
         "details": {
+          "name": "¿Qué tarifa? iOS app",
+          "description": "See what type of electricity rate is applied at the current time in Spain.\n",
+          "URL": "https://apps.apple.com/app/id1581316333",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/19/e1581d78-a47e-44cc-997b-5ea04c576cb0_quetarifa.png",
+            "alt": "quetarifa.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-09-01",
+            "competences": [
+              {
+                "name": "Apple iOS",
+                "type": "technology"
+              },
+              {
+                "name": "Swift",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "ScratchQuartets iPhone app",
+          "description": "Organize scratch quartets competition with this simple tool.",
+          "URL": "https://apps.apple.com/app/id1514952296",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/19/c13e9eb2-89b6-4788-85c5-75fa3a19e78e_icon_60pt3x.png",
+            "alt": "icon_60pt3x.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2020-05-01",
+            "competences": [
+              {
+                "name": "Apple iOS",
+                "type": "technology"
+              },
+              {
+                "name": "Swift",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "LearningTracks iPad app",
           "description": "A very easy to use app that will help you in the process of learning and practicing vocal and instrumental pieces.",
           "URL": "https://apps.apple.com/app/id817332570",
           "image": {
-            "alt": "learningtracks.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/19/6a4eacd2-a575-432e-b773-9d571103b17c_learningtracks.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/19/6a4eacd2-a575-432e-b773-9d571103b17c_learningtracks.png",
+            "alt": "learningtracks.png"
           }
         },
         "type": "sideProject",
@@ -787,8 +772,8 @@
           "description": "A framework that allows your iOS app to communicate, very easily, with other iOS apps installed in the device that supports the x-callback-url protocol. With IAC you can also add an x-callback-url API to your app in a very easy and intuitive way.",
           "URL": "https://github.com/tapsandswipes/InterAppCommunication",
           "image": {
-            "alt": "open-source-software.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/19/6dcbb3ae-2bd7-45d1-8084-59ebf1d8bc22_open-source-software.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/19/6dcbb3ae-2bd7-45d1-8084-59ebf1d8bc22_open-source-software.png",
+            "alt": "open-source-software.png"
           }
         },
         "type": "openSource",
@@ -819,8 +804,8 @@
           "description": "A box full of funny sounds",
           "URL": "http://itunes.apple.com/app/id368043740?mt=8",
           "image": {
-            "alt": "funbox.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/19/676fc744-8799-4ad6-b221-1633f19007ae_funbox.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/19/676fc744-8799-4ad6-b221-1633f19007ae_funbox.png",
+            "alt": "funbox.png"
           }
         },
         "type": "sideProject",
@@ -847,8 +832,8 @@
           "description": "Mi first iOS app. Simple image tiling game.",
           "URL": "https://tapsandswipes.com/apps/itile/",
           "image": {
-            "alt": "itile.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/19/544a92ab-c0e6-422b-9ce4-b7326ef0a63f_itile.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/19/544a92ab-c0e6-422b-9ce4-b7326ef0a63f_itile.png",
+            "alt": "itile.png"
           }
         },
         "type": "sideProject",
@@ -856,7 +841,6 @@
           {
             "name": "Developer",
             "startDate": "2008-11-01",
-            "finishDate": "2016-10-01",
             "competences": [
               {
                 "name": "Apple iOS",
@@ -866,7 +850,8 @@
                 "name": "Objective-C",
                 "type": "technology"
               }
-            ]
+            ],
+            "finishDate": "2016-10-01"
           }
         ]
       }
@@ -878,8 +863,8 @@
           "description": "I launched the iOS app for the site kiosko.net with my college and partner Hector at KTS S.C.",
           "URL": "https://apps.apple.com/app/id875275263",
           "image": {
-            "alt": "kiosko.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/19/dc9d1cdd-c420-477d-a0e4-aab69aa55094_kiosko.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/19/dc9d1cdd-c420-477d-a0e4-aab69aa55094_kiosko.png",
+            "alt": "kiosko.png"
           }
         },
         "type": "launch",
@@ -893,9 +878,6 @@
             "name": "Objective-C",
             "type": "technology"
           }
-        ],
-        "tags": [
-          ""
         ]
       }
     ]
@@ -903,24 +885,18 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
         "level": "Full professional proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
         "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "UIKit",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Swift",
+          "name": "MVVM",
           "type": "technology"
         }
       },
@@ -932,7 +908,13 @@
       },
       {
         "skill": {
-          "name": "MVVM",
+          "name": "Swift",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "UIKit",
           "type": "technology"
         }
       }
@@ -943,11 +925,30 @@
         "degreeAchieved": true,
         "name": "Bachelor Degree in Computer Engineering",
         "startDate": "1989-09-01",
-        "finishDate": "1996-06-01",
         "institution": {
           "name": "Facultad de Informática de la Universidad Politécnica de Madrid",
-          "description": "",
           "URL": "http://fi.upm.es"
+        },
+        "finishDate": "1996-06-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Attention to detail",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Continuous learning",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Emotional intelligence",
+          "type": "practice"
         }
       }
     ]
@@ -956,8 +957,25 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "http://www.linkedin.com/in/acvivo"
+          "URL": "http://www.linkedin.com/in/acvivo",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/tapsandswipes",
+          "type": "other"
+        },
+        {
+          "URL": "https://twitter.com/acvivo",
+          "type": "other"
+        }
+      ],
+      "contactMails": [
+        "antonio@tapsandswipes.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "656844003",
+          "countryCode": "+34"
         }
       ]
     },
@@ -982,6 +1000,38 @@
         "Mobile Developer"
       ]
     },
-    "status": "notAvailable"
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Working with great people that knows the field and to share knowledge, experiences and good moments with them.",
+    "projects": [
+      {
+        "name": "AugmentedButton"
+      },
+      {
+        "name": "FunBox iOS app"
+      },
+      {
+        "name": "FutureResult"
+      },
+      {
+        "name": "Inter-App Communication"
+      },
+      {
+        "name": "LearningTracks iPad app"
+      },
+      {
+        "name": "ScratchQuartets iPhone app"
+      },
+      {
+        "name": "StorablePropertyWrapper"
+      },
+      {
+        "name": "iTile iPhone app"
+      },
+      {
+        "name": "¿Qué tarifa? iOS app"
+      }
+    ]
   }
 }
