@@ -232,37 +232,6 @@
       },
       {
         "organization": {
-          "name": "LateNiteSoft S.L.",
-          "URL": "https://www.latenitesoft.com"
-        },
-        "roles": [
-          {
-            "name": "iOS freelance contract",
-            "startDate": "2010-08-01",
-            "challenges": [
-              {
-                "description": "Colaborate in the creation of several iOS apps:\n- **Camera+ for iPad**: I made the port of the iPhone app to the iPad.\n- **Camera+**: I'm responsible for the UI of the whole app.\n- **Macro**: Macro photography iPhone app.\n- **C+ Studio**: Photo editor for MacOS. Implemented in Mac Catalyst.\n- **REC**: Video recording app for iPhone."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Apple iOS",
-                "type": "technology"
-              },
-              {
-                "name": "Objective-C",
-                "type": "technology"
-              },
-              {
-                "name": "Swift",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Freelance",
           "URL": "https://tapsandswipes.com"
         },
@@ -270,6 +239,7 @@
           {
             "name": "iOS developer",
             "startDate": "2010-08-01",
+            "finishDate": "2023-08-01",
             "challenges": [
               {
                 "description": "Since 2010 I work helping companies to convert their ideas into iOS apps."
@@ -306,6 +276,37 @@
               },
               {
                 "name": "SwiftUI",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "LateNiteSoft S.L.",
+          "URL": "https://www.latenitesoft.com"
+        },
+        "roles": [
+          {
+            "name": "iOS freelance contract",
+            "startDate": "2010-08-01",
+            "challenges": [
+              {
+                "description": "Colaborate in the creation of several iOS apps:\n- **Camera+ for iPad**: I made the port of the iPhone app to the iPad.\n- **Camera+**: I'm responsible for the UI of the whole app.\n- **Macro**: Macro photography iPhone app.\n- **C+ Studio**: Photo editor for MacOS. Implemented in Mac Catalyst.\n- **REC**: Video recording app for iPhone."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Apple iOS",
+                "type": "technology"
+              },
+              {
+                "name": "Objective-C",
+                "type": "technology"
+              },
+              {
+                "name": "Swift",
                 "type": "technology"
               }
             ]
