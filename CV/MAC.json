@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "EN",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -32,6 +32,18 @@
       }
     ],
     "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "http://www.linkedin.com/in/acvivo"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/tapsandswipes"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/acvivo"
+      },
       {
         "type": "other",
         "URL": "https://tapsandswipes.com"
@@ -625,6 +637,34 @@
     "projects": [
       {
         "details": {
+          "name": "¿Qué tarifa? iOS app",
+          "description": "See what type of electricity rate is applied at the current time in Spain.\n",
+          "URL": "https://apps.apple.com/app/id1581316333",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/19/e1581d78-a47e-44cc-997b-5ea04c576cb0_quetarifa.png",
+            "alt": "quetarifa.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-09-01",
+            "competences": [
+              {
+                "name": "Apple iOS",
+                "type": "technology"
+              },
+              {
+                "name": "Swift",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "FutureResult",
           "description": "A tiny library with a very simple implementation of Futures",
           "URL": "https://github.com/tapsandswipes/FutureResult",
@@ -638,6 +678,34 @@
           {
             "name": "Developer",
             "startDate": "2021-04-01",
+            "competences": [
+              {
+                "name": "Apple iOS",
+                "type": "technology"
+              },
+              {
+                "name": "Swift",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "ScratchQuartets iPhone app",
+          "description": "Organize scratch quartets competition with this simple tool.",
+          "URL": "https://apps.apple.com/app/id1514952296",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/19/c13e9eb2-89b6-4788-85c5-75fa3a19e78e_icon_60pt3x.png",
+            "alt": "icon_60pt3x.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2020-05-01",
             "competences": [
               {
                 "name": "Apple iOS",
@@ -705,62 +773,6 @@
               },
               {
                 "name": "UIKit",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "¿Qué tarifa? iOS app",
-          "description": "See what type of electricity rate is applied at the current time in Spain.\n",
-          "URL": "https://apps.apple.com/app/id1581316333",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/19/e1581d78-a47e-44cc-997b-5ea04c576cb0_quetarifa.png",
-            "alt": "quetarifa.png"
-          }
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2021-09-01",
-            "competences": [
-              {
-                "name": "Apple iOS",
-                "type": "technology"
-              },
-              {
-                "name": "Swift",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "ScratchQuartets iPhone app",
-          "description": "Organize scratch quartets competition with this simple tool.",
-          "URL": "https://apps.apple.com/app/id1514952296",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/19/c13e9eb2-89b6-4788-85c5-75fa3a19e78e_icon_60pt3x.png",
-            "alt": "icon_60pt3x.png"
-          }
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2020-05-01",
-            "competences": [
-              {
-                "name": "Apple iOS",
-                "type": "technology"
-              },
-              {
-                "name": "Swift",
                 "type": "technology"
               }
             ]
@@ -915,10 +927,12 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Full professional proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
