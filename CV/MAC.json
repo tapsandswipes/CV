@@ -939,6 +939,12 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "Apple iOS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "MVVM",
           "type": "technology"
         }
@@ -952,6 +958,12 @@
       {
         "skill": {
           "name": "Swift",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SwiftUI",
           "type": "technology"
         }
       },
@@ -1046,6 +1058,28 @@
     "status": "searchingActively"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Apple iOS",
+        "type": "technology"
+      },
+      {
+        "name": "MVVM",
+        "type": "technology"
+      },
+      {
+        "name": "Swift",
+        "type": "technology"
+      },
+      {
+        "name": "SwiftUI",
+        "type": "technology"
+      },
+      {
+        "name": "UIKit",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "Working with great people that knows the field and to share knowledge, experiences and good moments with them.",
     "projects": [
       {
