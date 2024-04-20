@@ -1077,6 +1077,10 @@
         {
           "name": "Erlang",
           "type": "technology"
+        },
+        {
+          "name": "Go",
+          "type": "technology"
         }
       ],
       "discardedCompetences": [
