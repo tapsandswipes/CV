@@ -54,6 +54,40 @@
     "jobs": [
       {
         "organization": {
+          "name": "Blackmagic Design Pty. Ltd.",
+          "URL": "https://blackmagicdesig.com"
+        },
+        "roles": [
+          {
+            "name": "Mobile Software Engineer",
+            "startDate": "2024-01-01",
+            "competences": [
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "Android SDK",
+                "type": "technology"
+              },
+              {
+                "name": "Android Studio",
+                "type": "technology"
+              },
+              {
+                "name": "JetPack",
+                "type": "technology"
+              },
+              {
+                "name": "Kotlin",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Filmic Inc.",
           "URL": "https://filmicpro.com"
         },
@@ -518,7 +552,7 @@
             ],
             "competences": [
               {
-                "name": "JAVA",
+                "name": "Java",
                 "type": "technology"
               }
             ]
@@ -541,7 +575,7 @@
             ],
             "competences": [
               {
-                "name": "JAVA",
+                "name": "Java",
                 "type": "technology"
               }
             ]
@@ -568,7 +602,7 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
+                "name": "Java",
                 "type": "technology"
               }
             ]
@@ -1026,12 +1060,6 @@
       ],
       "contactMails": [
         "antonio@tapsandswipes.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "656844003",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
@@ -1047,7 +1075,7 @@
       ],
       "discardedCompetences": [
         {
-          "name": "JAVA",
+          "name": "Java",
           "type": "technology"
         }
       ],
