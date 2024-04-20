@@ -61,6 +61,11 @@
           {
             "name": "Mobile Software Engineer",
             "startDate": "2024-01-01",
+            "challenges": [
+              {
+                "description": "- Developing the camera app for android."
+              }
+            ],
             "competences": [
               {
                 "name": "Android",
