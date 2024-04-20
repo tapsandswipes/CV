@@ -1071,10 +1071,6 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "Kotlin",
-          "type": "technology"
-        },
-        {
           "name": "SwiftUI",
           "type": "technology"
         }
