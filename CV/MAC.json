@@ -979,12 +979,6 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Apple iOS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "MVVM",
           "type": "technology"
         }
@@ -1098,11 +1092,11 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "Apple iOS",
+        "name": "MVVM",
         "type": "technology"
       },
       {
-        "name": "MVVM",
+        "name": "Objective-C",
         "type": "technology"
       },
       {
