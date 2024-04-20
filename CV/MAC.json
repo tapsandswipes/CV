@@ -1073,6 +1073,10 @@
         {
           "name": "Elixir",
           "type": "technology"
+        },
+        {
+          "name": "Erlang",
+          "type": "technology"
         }
       ],
       "discardedCompetences": [
