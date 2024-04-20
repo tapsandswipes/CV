@@ -677,6 +677,26 @@
     "projects": [
       {
         "details": {
+          "name": "barbershoptags.com API client",
+          "description": "A library to access the API provided by [barbershoptags.com](https://www.barbershoptags.com/dbpage.php?pg=api) to search and vote for barbershop tags.",
+          "URL": "https://github.com/tapsandswipes/BarbershopTagsAPIClient"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2024-01-01",
+            "competences": [
+              {
+                "name": "Swift",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "¿Qué tarifa? iOS app",
           "description": "See what type of electricity rate is applied at the current time in Spain.\n",
           "URL": "https://apps.apple.com/app/id1581316333",
@@ -1128,6 +1148,9 @@
       },
       {
         "name": "StorablePropertyWrapper"
+      },
+      {
+        "name": "barbershoptags.com API client"
       },
       {
         "name": "iTile iPhone app"
